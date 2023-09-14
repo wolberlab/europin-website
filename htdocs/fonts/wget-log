@@ -1,0 +1,11 @@
+--2022-11-10 18:32:35--  https://google-webfonts-helper.herokuapp.com/api/fonts/lato?download=zip
+Resolving google-webfonts-helper.herokuapp.com (google-webfonts-helper.herokuapp.com)... 54.73.53.134, 54.220.192.176, 46.137.15.86
+Connecting to google-webfonts-helper.herokuapp.com (google-webfonts-helper.herokuapp.com)|54.73.53.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘lato?download=zip’
+
+lato?download=zip                                                     [<=>                                                                                                                                                           ]       0  --.-KB/s               lato?download=zip                                                     [ <=>                                                                                                                                                          ] 778.52K  3.54MB/s               lato?download=zip                                                     [  <=>                                                                                                                                                         ]   1.32M  3.75MB/s    in 0.4s    
+
+2022-11-10 18:32:35 (3.75 MB/s) - ‘lato?download=zip’ saved [1384017]
+
